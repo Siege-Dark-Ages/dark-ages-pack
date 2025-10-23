@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 3,
+    "description": "§7§lSiege Resourcepack",
+    "supported_formats": {
+      "min_inclusive": 3,
+      "max_inclusive": 99
+    }
+  }
+}
