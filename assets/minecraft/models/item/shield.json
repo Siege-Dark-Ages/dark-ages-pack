@@ -1,0 +1,11 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/shield"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 156 }, "model": "item/siege/weapon/offhand/buckler" }
+  ],
+
+  "mcmodels": "5a6e15466171cde06d87cbd6544c80da"
+}
