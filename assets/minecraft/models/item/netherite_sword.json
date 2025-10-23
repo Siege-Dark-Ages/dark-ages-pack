@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_sword"
+  },
+"overrides": [
+  { "predicate": { "custom_model_data": 141 }, "model": "item/siege/weapon/melee/handaxe" },
+  { "predicate": { "custom_model_data": 145 }, "model": "item/siege/weapon/melee/longsword" }
+],
+
+  "mcmodels": "5a6e15466171cde06d87cbd6544c80da"
+}
